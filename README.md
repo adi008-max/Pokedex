@@ -1,6 +1,6 @@
 # Pokedex
 # Pokedex
-
+https://adi008-max.github.io/Pokedex/
 A simple, responsive Pokedex web app. Type a Pokemon's name, press **Fetch**, and see its stats and sprite. Data comes from the free [PokeAPI](https://pokeapi.co/).
 
 ## Features
